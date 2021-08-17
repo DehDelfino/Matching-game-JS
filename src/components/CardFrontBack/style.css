@@ -1,8 +1,8 @@
 .card-front-back{
   --width: 136px;
   --height: 160px;
-  width: var(--width);
-  height: (var(--height));
+  width:var(--width);
+  height:var(--height);
   position:relative ;
   transform-style:preserve-3d ;
   transition: 1.5s cubic-bezier(.42,0,.51,1.88);
